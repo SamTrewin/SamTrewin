@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**SamTrewin/SamTrewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi There 👋 - My Name is Sam!</h2>
+I am a student, soon to be high school teacher based in Melbourne.
 
-Here are some ideas to get you started:
+<h2>Skills</h2>
+Currently working on learning:
+<ul>
+    <li>Python</li>
+    <li>Javascript</li>
+    <li>SQL</li>
+</ul>
+<em> any assistance and guidance would be much appreciated!</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contact</h2>
+<a href="https://www.linkedin.com/in/samtrewin/">
+  <img src="https://i.ibb.co/j3Y79j1/linkedin-logo.png" width="50" height="50" alt="LinkedIn">
+</a>
