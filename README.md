@@ -1,6 +1,6 @@
 
 <h2>Hi There 👋 - My Name is Sam!</h2>
-I am a student, soon to be high school teacher based in Melbourne.
+I am a student based in Melbourne.
 
 <h2>Skills</h2>
 Currently working on learning:
